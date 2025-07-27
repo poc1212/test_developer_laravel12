@@ -1,5 +1,5 @@
 # Laravel 12 Developer Test
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/poc1212/app_tree_map/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/poc1212/test_developer_laravel12/blob/main/Create%20LICENSE) 
 
 # About the project
 
